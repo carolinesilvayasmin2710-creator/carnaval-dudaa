@@ -1,0 +1,31 @@
+body{
+    background-color: blueviolet;
+}
+h1{
+    text-align: center;
+    margin-top: 20%;
+    color: aqua;
+    border-style: dashed;
+    border-width: 15px;
+    border-radius: 10%;
+    border-color: black;
+    margin-left: 30%;
+    margin-right: 30%;
+}
+#ima1{
+margin-left: 28%; 
+border-style: double; 
+border-color: bisque; 
+border-width: 80px;
+}
+h3{
+    text-align: center;
+    margin-top: 20%;
+    color: rgb(0, 225, 255);
+    border-style: dashed;
+    border-width: 15px;
+    border-radius: 10%;
+    border-color: black;
+    margin-left: 30%;
+    margin-right: 30%;
+}
